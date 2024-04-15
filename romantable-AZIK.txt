@@ -390,12 +390,6 @@ pyu	ぴゅ
 pyz	ぴゃん
 pz	ぱん
 q	ん
-qa	くぁ
-qe	くぇ
-qi	くぃ
-qo	くぉ
-qq	っ	q
-qu	く
 ra	ら
 rd	れん
 re	れ
