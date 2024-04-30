@@ -51,6 +51,7 @@ cu	ちゅ
 cw	ちぇい
 cya	ちゃ
 cye	ちぇ
+cyh	ちゅう
 cyi	ちぃ
 cyo	ちょ
 cyp	ちょう
@@ -245,6 +246,7 @@ ku	く
 kw	けい
 kya	きゃ
 kye	きぇ
+kyh	きゅう
 kyi	きぃ
 kyj	きゅん
 kyl	きょん
@@ -303,6 +305,7 @@ mw	めい
 mya	みゃ
 myd	みぇん
 mye	みぇ
+myh	みゅう
 myi	みぃ
 myj	みゅん
 myl	みょん
@@ -345,6 +348,7 @@ nw	ねい
 nya	にゃ
 nyd	にぇん
 nye	にぇ
+nyh	にゅう
 nyi	にぃ
 nyj	にゅん
 nyl	にょん
@@ -381,6 +385,7 @@ pw	ぺい
 pya	ぴゃ
 pyd	ぴぇん
 pye	ぴぇ
+pyh	ぴゅう
 pyi	ぴぃ
 pyj	ぴゅん
 pyl	ぴょん
